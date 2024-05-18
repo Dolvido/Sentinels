@@ -116,13 +116,6 @@ As we look to the future, the Sentinels Project aims to:
 - **Global Deployment:** Ensure Sentinels are deployed in diverse ecosystems worldwide.
 - **Collaborative Research:** Partner with researchers and institutions to enhance the Sentinels' impact.
 
-## Contact
-
-For more information, questions, or contributions, please contact us at:
-
-- **Email:** futurehumanity@sentinelsproject.org
-- **Website:** [Sentinels Project](http://www.sentinelsproject.org)
-
 ---
 
 By preserving the principles and goals of the Sentinels Project, we ensure that future generations inherit a world where technology and nature coexist harmoniously. Thank you for your commitment to protecting our planet.
